@@ -1,0 +1,12 @@
+package datatype;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+         byte ODIovers;
+         ODIovers=50;
+         System.out.println(ODIovers);
+	}
+
+}
